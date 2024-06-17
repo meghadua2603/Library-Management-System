@@ -11,8 +11,9 @@ Library project system that offers many flexible and convenient features, allowi
 # Output
 <img width="472" alt="Picture1" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/adc36657-1631-40e8-a3e1-fe3d69853547">
 
+
 <img width="401" alt="Picture2" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/886efb6b-6f8c-4245-83c7-ac1173225b2d">
 
-<img width="381" alt="Picture3" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/8ed3ef36-1266-4732-81f2-7334bc025008">
+
 <img width="381" alt="Picture3" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/8ed3ef36-1266-4732-81f2-7334bc025008">
 
