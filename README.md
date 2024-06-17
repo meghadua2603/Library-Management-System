@@ -8,3 +8,8 @@ Library project system that offers many flexible and convenient features, allowi
 
 2.	PYTHON is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library. 
 
+# Output
+<img width="401" alt="Picture2" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/886efb6b-6f8c-4245-83c7-ac1173225b2d">
+<img width="401" alt="Picture2" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/886efb6b-6f8c-4245-83c7-ac1173225b2d">
+<img width="472" alt="Picture1" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/adc36657-1631-40e8-a3e1-fe3d69853547">
+<img width="472" alt="Picture1" src="https://github.com/meghadua2603/Library-Management-System/assets/123231579/adc36657-1631-40e8-a3e1-fe3d69853547">
